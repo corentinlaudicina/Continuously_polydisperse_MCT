@@ -3,7 +3,8 @@
 Mode-coupling theory (MCT) for polydisperse hard spheres with a continuous size distribution.
 The distribution is discretised into `Ns` species, and the multicomponent MCT equations are
 solved with Percus–Yevick structure factors using
-[ModeCouplingTheory.jl](https://github.com/IlianPihlajamaa/ModeCouplingTheory.jl).
+[ModeCouplingTheory.jl](https://github.com/IlianPihlajamaa/ModeCouplingTheory.jl). Work published 
+here : Phys. Rev. Research 5, 033121 (https://doi.org/10.1103/PhysRevResearch.5.033121)
 
 The scripts compute:
 
